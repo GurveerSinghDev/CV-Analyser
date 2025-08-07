@@ -1,9 +1,6 @@
 import fitz  # PyMuPDF
 import sys
 
-#.\venv\Scripts\Activate 
-#enter in terminal, to enter VE
-#Deactivate to Exit
 
 def parsePdf(pdfPath):
     """Extracts text from a PDF file."""

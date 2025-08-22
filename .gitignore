@@ -3,6 +3,9 @@ env/
 .venv/
 .env/
 
+frontend/node_modules/
+
+
 
 __pycache__/
 *.py[cod]
